@@ -1,0 +1,6 @@
+/Users/valentina/Documents/TP02_Docker/obj/Debug/net8.0/ MinimalApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valentina/Documents/TP02_Docker/obj/Debug/net8.0/ MinimalApi.AssemblyInfoInputs.cache
+/Users/valentina/Documents/TP02_Docker/obj/Debug/net8.0/ MinimalApi.AssemblyInfo.cs
+/Users/valentina/Documents/TP02_Docker/obj/Debug/net8.0/ MinimalApi.csproj.CoreCompileInputs.cache
+/Users/valentina/Documents/TP02_Docker/obj/Debug/net8.0/ MinimalApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/valentina/Documents/TP02_Docker/obj/Debug/net8.0/ MinimalApi.sourcelink.json
